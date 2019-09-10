@@ -1,5 +1,5 @@
 import React from "react";
-
+import {numbers} from "../../../data";
 //import any components needed
 
 //Import your array data to from the provided data file
@@ -12,5 +12,6 @@ const Numbers = () => {
        component matching the name on the provided file. Pass
        it any props needed by the child component*/}
     </div>
+  
   );
 };
