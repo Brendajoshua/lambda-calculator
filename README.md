@@ -66,8 +66,8 @@ import { numbers } from '../path/to/data';
 
 ...
 
-
 const [numberState, setNumberState] = useState(numbers);
+
 ```
 
 **Step 3**

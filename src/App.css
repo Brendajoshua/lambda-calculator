@@ -21,3 +21,61 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+
+  .App {
+      display: flex;
+  }
+
+  .button-group{
+      /* width:75%; */
+      display: flex;
+  }
+
+  /* .operators{
+      width:25%;
+  } */
+
+  /* .numbers, 
+  .specials{
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+  } */
+
+  
+button{
+    width: 29%;
+    border-radius: 50%;
+    text-align: center;
+    padding: 2.2rem;
+    /* margin: 0.3rem 0; */
+    margin-left: 15px;
+    margin-top: 10px;
+    border: 1px solid black;
+
+
+}
+/* .operator-buttongroup{
+width: 100%;
+max-width: 200px;
+} */
+  .number-button{
+      background-color: #123C78;
+      
+  }
+
+  .special-button{
+      background-color: #2161b0;
+      
+  }
+
+  .operator-button{
+      background-color: #3fb5e5;
+     
+     
+  }
+
+  /* #div0{
+    width: 50%;
+    border-radius: 50%;  
+  } */
